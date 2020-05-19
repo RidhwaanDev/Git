@@ -1,0 +1,6 @@
+This is a file in project2
+
+
+ yay
+grader->giveGoodGrade = 1;
+Class CS214 = malloc(sizeof(AmazingClass));
